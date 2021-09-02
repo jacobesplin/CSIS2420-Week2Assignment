@@ -1,0 +1,12 @@
+package com.week2assignment;
+
+public class Week2Part2 {
+	
+	private static void printf(String format,Object arguments) {
+		System.out.printf(format, arguments);
+	}
+	public static void main(String[] args) {
+		double sum = 0.0;
+		int rowCounter = 0;
+	}
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Code\java\CSIS2420\.metadata\.plugins\org.eclipse.jdt.core
+3305476313.index
+942548511.index
+2414347715.index
